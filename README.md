@@ -17,8 +17,6 @@ A normalized Backend / Frontend developer
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2033%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue)
 
 **🐱 My GitHub Data** 
@@ -62,19 +60,19 @@ Sunday       26 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    28 hrs 6 mins       █████████████░░░░░░░░░░░░   53.4% 
-JSON                     13 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   24.94% 
-TypeScript               5 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
-Markdown                 1 hr 49 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.47% 
-JavaScript               1 hr 47 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41%
+Other                    41 hrs 21 mins      ████████████████░░░░░░░░░   64.35% 
+JSON                     9 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.13% 
+TypeScript               5 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.31% 
+Markdown                 2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.03% 
+JavaScript               1 hr 45 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73%
 
 🔥 Editors: 
-VS Code                  27 hrs 47 mins      █████████████░░░░░░░░░░░░   52.8% 
-Browser                  24 hrs 23 mins      ███████████░░░░░░░░░░░░░░   46.35% 
-Neovim                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
+Browser                  37 hrs 50 mins      ██████████████░░░░░░░░░░░   58.86% 
+VS Code                  25 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   39.29% 
+Neovim                   1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
 
 💻 Operating System: 
-Linux                    52 hrs 37 mins      █████████████████████████   100.0%
+Linux                    64 hrs 16 mins      █████████████████████████   100.0%
 
 ```
 
@@ -95,5 +93,5 @@ CSS                      7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/todaypp/todaypp/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/02/2022 14:41:06 UTC
+ Last Updated on 02/02/2022 15:17:11 UTC
 <!--END_SECTION:waka-->
