@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **clvswft03@gmail.com**
 
-✨These days, I'm so much interested in contributing Open-Source projects (somehow,) and communicating with other developers like me 😜
+> Currently I'm so much interested in contributing Open-Source projects (somehow,)\
+> and communicating with other developers like me 💬
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
