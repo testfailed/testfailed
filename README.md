@@ -1,6 +1,6 @@
 # About Me
 
-A normalized Backend / Frontend developer
+A normalized Backend / Frontend Engineer
 
 - currently working on **Personal Project**
 - currently learning **Next.js (w. Recoil), TypeORM, Nest.js, Typescript, MariaDB, Monorepo (Bazel)**
