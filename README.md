@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **clvswft03@gmail.com**
 
+✨These days, I'm so much interested in contributing Open-Source projects (somehow,) and communicating with other developers like me 😜
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sonsumin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonsumin" height="30" width="40" /></a>
