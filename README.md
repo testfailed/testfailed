@@ -17,7 +17,9 @@ A normalized Backend / Frontend developer
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2042%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue)
 
 **🐱 My GitHub Data** 
 
@@ -27,29 +29,29 @@ A normalized Backend / Frontend developer
  > 
 > 💼 Opted to Hire
  > 
-> 📜 251 Public Repositories 
+> 📜 252 Public Repositories 
  > 
 > 🔑 94 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
-🌆 Daytime    139 commits    ███████████░░░░░░░░░░░░░░   46.8% 
-🌃 Evening    65 commits     █████░░░░░░░░░░░░░░░░░░░░   21.89% 
-🌙 Night      59 commits     █████░░░░░░░░░░░░░░░░░░░░   19.87%
+🌞 Morning    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.41% 
+🌆 Daytime    139 commits    ███████████░░░░░░░░░░░░░░   46.64% 
+🌃 Evening    65 commits     █████░░░░░░░░░░░░░░░░░░░░   21.81% 
+🌙 Night      60 commits     █████░░░░░░░░░░░░░░░░░░░░   20.13%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
-Tuesday      24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.08% 
-Wednesday    65 commits     █████░░░░░░░░░░░░░░░░░░░░   21.89% 
-Thursday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
-Friday       35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.78% 
-Saturday     73 commits     ██████░░░░░░░░░░░░░░░░░░░   24.58% 
-Sunday       26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.75%
+Monday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.09% 
+Tuesday      24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.05% 
+Wednesday    65 commits     █████░░░░░░░░░░░░░░░░░░░░   21.81% 
+Thursday     33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
+Friday       35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
+Saturday     73 commits     ██████░░░░░░░░░░░░░░░░░░░   24.5% 
+Sunday       26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.72%
 
 ```
 
@@ -93,5 +95,5 @@ CSS                      7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/todaypp/todaypp/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/02/2022 15:17:11 UTC
+ Last Updated on 02/02/2022 15:47:08 UTC
 <!--END_SECTION:waka-->
