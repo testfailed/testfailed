@@ -6,7 +6,7 @@ A normalized Backend / Frontend Engineer
 - currently learning **Next.js (w. Recoil), TypeORM, Nest.js, Typescript, Monorepo (Bazel), Cypress.io**
 - reach me at **clvswft03@gmail.com**
 
-> Currently I'm trying to contributing Open-Source projects (somehow,)\
+> These days I'm trying to contributing Open-Source projects (somehow,)\
 > and communicating with other developers like me 💬
 
 &nbsp;
