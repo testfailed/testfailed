@@ -7,7 +7,7 @@ A normalized Backend / Frontend Engineer
 - reach me at **clvswft03@gmail.com**
 
 > These days I'm trying to contributing Open-Source projects (somehow,)\
-> and communicating with other developers like me 💬
+> and wanna communicate with other developers in common interests 💬
 
 &nbsp;
 
