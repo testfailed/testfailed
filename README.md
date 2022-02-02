@@ -3,7 +3,7 @@
 A normalized Backend / Frontend developer
 
 - currently working on **Personal Project**
-- currently learning **Next.js, Nest.js, Typescript, TypeORM, MariaDB (MySQL)**
+- currently learning **Next.js (w. Recoil), TypeORM, Nest.js, Typescript, MariaDB (MySQL)**
 - reach me at **clvswft03@gmail.com**
 
 > Currently I'm trying to contributing Open-Source projects (somehow,)\
