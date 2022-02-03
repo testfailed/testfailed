@@ -21,7 +21,7 @@ A normalized Backend / Frontend Engineer
 &nbsp;
 
 <details>
- <summary>My Statistics</summary>
+ <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2047%20mins-blue)
