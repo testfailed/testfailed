@@ -4,6 +4,7 @@ A normalized Backend / Frontend Engineer
 
 - currently working on **Personal Project**
 - currently learning **TDD (Cypress.io), Next.js (w. Recoil), Nest.js (w. TypeORM, Socket.io), Typescript, Monorepo (Bazel)**
+- currently I like to **Playing Piano (seriously)**
 - reach me at **clvswft03@gmail.com**
 
 > These days I'm trying to contributing Open-Source projects (somehow,)\
