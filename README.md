@@ -25,7 +25,7 @@ A normalized Backend / Frontend Engineer
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -104,6 +104,6 @@ Python                   6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/todaypp/todaypp/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/02/2022 18:11:13 UTC
+ Last Updated on 22/02/2022 18:44:57 UTC
 <!--END_SECTION:waka-->
 </details>
