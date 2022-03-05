@@ -27,13 +27,13 @@ A normalized Backend / Frontend Engineer
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-595%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 747 Contributions in the Year 2022
  > 
-> 📦 12.6 MB Used in GitHub's Storage 
+> 📦 12.5 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -105,6 +105,6 @@ CSS                      7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/todaypp/todaypp/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/03/2022 08:42:01 UTC
+ Last Updated on 05/03/2022 10:10:36 UTC
 <!--END_SECTION:waka-->
 </details>
