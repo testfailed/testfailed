@@ -27,7 +27,7 @@ A normalized Backend / Frontend Engineer
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-601%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -105,6 +105,6 @@ CSS                      7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/todaypp/todaypp/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/03/2022 09:40:53 UTC
+ Last Updated on 08/03/2022 10:07:03 UTC
 <!--END_SECTION:waka-->
 </details>
