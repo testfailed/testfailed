@@ -24,19 +24,19 @@ A normalized Backend / Frontend Engineer
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-802%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-802%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,057 Contributions in the Year 2022
+> 🏆 1,058 Contributions in the Year 2022
  > 
 > 📦 12.5 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 321 Public Repositories 
+> 📜 322 Public Repositories 
  > 
 > 🔑 100 Private Repositories  
  > 
@@ -92,7 +92,7 @@ Linux                    37 hrs 23 mins      ███████████�
 JavaScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64% 
 TypeScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   23.08% 
 Shell                    9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
-Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
 CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.97%
 
 ```
@@ -103,6 +103,6 @@ CSS                      7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/todaypp/todaypp/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/05/2022 08:11:44 UTC
+ Last Updated on 18/05/2022 08:44:23 UTC
 <!--END_SECTION:waka-->
 </details>
