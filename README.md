@@ -24,7 +24,7 @@ A normalized Backend / Frontend Engineer
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -36,7 +36,7 @@ A normalized Backend / Frontend Engineer
  > 
 > 💼 Opted to Hire
  > 
-> 📜 340 Public Repositories 
+> 📜 341 Public Repositories 
  > 
 > 🔑 102 Private Repositories  
  > 
@@ -105,6 +105,6 @@ Python                   5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/todaypp/todaypp/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/05/2022 20:07:29 UTC
+ Last Updated on 27/05/2022 20:40:04 UTC
 <!--END_SECTION:waka-->
 </details>
