@@ -24,23 +24,22 @@ A normalized Backend / Frontend Engineer
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-929%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-930%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-orange)
 
-**🐱 My GitHub Data** 
+**📊 My GitHub data** 
 
-> 🏆 1,267 Contributions in the Year 2022
+```text
+🏆 1,266 contributions in 2022
+
+📦 12.5 MB used in GitHub's storage 
+
+📜 355 Public Repositories 
+
+🔑 103 Private Repositories  
  > 
-> 📦 12.5 MB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 355 Public Repositories 
- > 
-> 🔑 103 Private Repositories  
- > 
-**I'm a Night 🦉** 
+**I'm a night 🦉** 
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
@@ -49,7 +48,7 @@ A normalized Backend / Frontend Engineer
 🌙 Night      7 commits      ████████░░░░░░░░░░░░░░░░░   31.82%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm most productive on Sunday** 
 
 ```text
 Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
@@ -63,7 +62,7 @@ Sunday       10 commits     ███████████░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Asia/Seoul
@@ -85,7 +84,7 @@ Windows                  0 secs              ░░░░░░░░░░░�
 
 ```
 
-**I Mostly Code in JavaScript** 
+**💻 I mostly code in JavaScript** 
 
 ```text
 JavaScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   25.97% 
@@ -102,6 +101,6 @@ HTML                     6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/todaypp/todaypp/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 07:36:29 UTC
+ Last Updated on 12/06/2022 08:09:51 UTC
 <!--END_SECTION:waka-->
 </details>
