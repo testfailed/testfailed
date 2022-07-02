@@ -30,8 +30,6 @@ A normalized Backend / Frontend Engineer
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,321 Contributions in the Year 2022
- > 
 > 📦 12.5 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -104,6 +102,6 @@ HTML                     6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/todaypp/todaypp/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/07/2022 09:37:40 UTC
+ Last Updated on 02/07/2022 10:10:39 UTC
 <!--END_SECTION:waka-->
 </details>
