@@ -24,7 +24,7 @@ A normalized Backend / Frontend Engineer
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C016%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C016%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,8 +92,8 @@ Linux                    11 hrs              ███████████�
 JavaScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   26.32% 
 TypeScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   22.37% 
 Shell                    8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.21% 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89%
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.21% 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89%
 
 ```
 
@@ -103,6 +103,6 @@ Python                   6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/todaypp/todaypp/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/07/2022 05:42:39 UTC
+ Last Updated on 22/07/2022 06:06:48 UTC
 <!--END_SECTION:waka-->
 </details>
