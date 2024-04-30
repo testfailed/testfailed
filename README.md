@@ -24,7 +24,7 @@ A normalized Backend / Frontend Engineer
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C822%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C822%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -32,7 +32,7 @@ A normalized Backend / Frontend Engineer
 
 > 📦 12.9 MB Used in GitHub's Storage 
  > 
-> 🏆 158 Contributions in the Year 2024
+> 🏆 163 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -67,17 +67,13 @@ Sunday                   4378 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               2 hrs 34 mins       ███████████████████░░░░░░   75.42 % 
-JSON                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 10 mins       ███████████████████████░░   93.18 % 
-Chrome                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,6 +93,6 @@ Nix                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2024 15:16:40 UTC
+ Last Updated on 30/04/2024 15:43:57 UTC
 <!--END_SECTION:waka-->
 </details>
