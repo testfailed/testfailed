@@ -24,7 +24,7 @@ A normalized Backend / Frontend Engineer
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C822%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C822%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -67,13 +67,19 @@ Sunday                   4662 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               1 min               █████████████████████████   100.00 % 
+TOML                     39 mins             ████████████████████░░░░░   79.35 % 
+YAML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+sshconfig                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+INI                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+Neovim                   48 mins             ████████████████████████░   96.34 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+Windows                  48 mins             ████████████████████████░   96.34 % 
+Mac                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,6 +99,6 @@ Nix                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2024 15:15:20 UTC
+ Last Updated on 01/05/2024 15:45:24 UTC
 <!--END_SECTION:waka-->
 </details>
