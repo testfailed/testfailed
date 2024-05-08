@@ -67,16 +67,13 @@ Sunday                   4699 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TOML                     39 mins             █████████████████████░░░░   82.36 % 
-YAML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-sshconfig                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-INI                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,6 +93,6 @@ Nix                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2024 15:15:06 UTC
+ Last Updated on 08/05/2024 15:43:51 UTC
 <!--END_SECTION:waka-->
 </details>
