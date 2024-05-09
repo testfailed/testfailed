@@ -32,8 +32,6 @@ A normalized Backend / Frontend Engineer
 
 > 📦 12.9 MB Used in GitHub's Storage 
  > 
-> 🏆 251 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 528 Public Repositories 
@@ -83,7 +81,7 @@ TypeScript               28 repos            █████░░░░░░�
 JavaScript               28 repos            █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
 Python                   27 repos            █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
 Lua                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Nix                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Nix                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 
 
@@ -93,6 +91,6 @@ Nix                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2024 02:03:45 UTC
+ Last Updated on 09/05/2024 02:26:55 UTC
 <!--END_SECTION:waka-->
 </details>
