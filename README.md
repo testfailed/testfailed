@@ -24,7 +24,7 @@ A normalized Backend / Frontend Engineer
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C825%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C827%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -67,13 +67,17 @@ Sunday                   4698 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Nix                      39 mins             ████████████░░░░░░░░░░░░░   48.64 % 
+gitignore                13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Lua                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+sh                       6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+conf                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   1 hr 21 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,6 +97,6 @@ Lua                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2024 15:16:01 UTC
+ Last Updated on 30/05/2024 15:43:59 UTC
 <!--END_SECTION:waka-->
 </details>
