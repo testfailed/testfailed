@@ -24,7 +24,7 @@ A normalized Backend / Frontend Engineer
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C829%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C832%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -32,7 +32,7 @@ A normalized Backend / Frontend Engineer
 
 > 📦 12.9 MB Used in GitHub's Storage 
  > 
-> 🏆 328 Contributions in the Year 2024
+> 🏆 330 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -67,17 +67,16 @@ Sunday                   4708 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Nix                      1 hr 58 mins        ██████████████████████░░░   89.25 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Makefile                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-sh                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Nix                      2 hrs 46 mins       █████████████████████████   98.82 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 12 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,6 +96,6 @@ Lua                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2024 15:17:18 UTC
+ Last Updated on 10/06/2024 15:44:29 UTC
 <!--END_SECTION:waka-->
 </details>
