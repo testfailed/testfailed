@@ -24,15 +24,13 @@ A normalized Backend / Frontend Engineer
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C835%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C835%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 12.9 MB Used in GitHub's Storage 
- > 
-> 🏆 329 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -96,6 +94,6 @@ Lua                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2024 06:47:44 UTC
+ Last Updated on 11/06/2024 07:15:17 UTC
 <!--END_SECTION:waka-->
 </details>
