@@ -24,15 +24,13 @@ A normalized Backend / Frontend Engineer
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C857%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C856%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 12.9 MB Used in GitHub's Storage 
- > 
-> 🏆 367 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -99,6 +97,6 @@ AutoHotkey               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2024 14:44:15 UTC
+ Last Updated on 19/06/2024 15:17:11 UTC
 <!--END_SECTION:waka-->
 </details>
