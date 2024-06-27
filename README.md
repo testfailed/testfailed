@@ -32,8 +32,6 @@ A normalized Backend / Frontend Engineer
 
 > 📦 12.9 MB Used in GitHub's Storage 
  > 
-> 🏆 388 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 565 Public Repositories 
@@ -83,8 +81,8 @@ Windows                  7 mins              ███████████�
 
 ```text
 JavaScript               29 repos            █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-Shell                    13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Nix                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Shell                    12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Nix                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 Lua                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 AutoHotkey               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
@@ -96,6 +94,6 @@ AutoHotkey               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2024 16:46:19 UTC
+ Last Updated on 27/06/2024 17:16:13 UTC
 <!--END_SECTION:waka-->
 </details>
