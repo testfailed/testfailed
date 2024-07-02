@@ -24,7 +24,7 @@ A normalized Backend / Frontend Engineer
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C858%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C858%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -67,16 +67,16 @@ Sunday                   4840 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-HTML                     3 mins              ███████████░░░░░░░░░░░░░░   45.29 % 
-YAML                     2 mins              ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-JSON                     2 mins              ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+HTML                     6 mins              ████████████████░░░░░░░░░   62.03 % 
+YAML                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+JSON                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,6 +96,6 @@ AutoHotkey               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2024 15:15:19 UTC
+ Last Updated on 02/07/2024 15:44:28 UTC
 <!--END_SECTION:waka-->
 </details>
