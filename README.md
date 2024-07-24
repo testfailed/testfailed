@@ -21,6 +21,8 @@ I'm a Software Developer.
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C863%20hrs%208%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -62,17 +64,13 @@ Sunday                   4783 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JSON                     1 hr 20 mins        █████████████░░░░░░░░░░░░   53.99 % 
-Python                   30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-TOML                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 28 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,6 +90,6 @@ AutoHotkey               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2024 15:18:16 UTC
+ Last Updated on 24/07/2024 15:45:08 UTC
 <!--END_SECTION:waka-->
 </details>
