@@ -21,7 +21,7 @@ I'm a Software Developer.
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C873%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C873%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -29,7 +29,7 @@ I'm a Software Developer.
 
 > 📦 12.9 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 418 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -64,17 +64,18 @@ Sunday                   4818 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   3 hrs 40 mins       ███████████████░░░░░░░░░░   59.81 % 
-Markdown                 1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
-RPMSpec                  23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Python                   2 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.85 % 
+PowerShell               1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+Lua                      1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 8 mins        █████████████████████████   100.00 % 
+Neovim                   3 hrs 35 mins       █████████████░░░░░░░░░░░░   52.47 % 
+VS Code                  3 hrs 14 mins       ████████████░░░░░░░░░░░░░   47.53 % 
 
 💻 Operating System: 
-Windows                  6 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,6 +95,6 @@ AutoHotkey               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2024 15:44:34 UTC
+ Last Updated on 08/08/2024 16:17:58 UTC
 <!--END_SECTION:waka-->
 </details>
