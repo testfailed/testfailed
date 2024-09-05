@@ -21,7 +21,7 @@ I'm a Software Developer.
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C894%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C897%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -64,16 +64,15 @@ Sunday                   4738 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   3 hrs 9 mins        ███████████████████████░░   91.90 % 
-Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   3 hrs 41 mins       ███████████████████████░░   90.39 % 
+Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,6 +92,6 @@ AutoHotkey               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2024 15:16:21 UTC
+ Last Updated on 05/09/2024 15:47:19 UTC
 <!--END_SECTION:waka-->
 </details>
