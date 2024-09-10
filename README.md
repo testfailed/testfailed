@@ -29,8 +29,6 @@ I'm a Software Developer.
 
 > 📦 12.9 MB Used in GitHub's Storage 
  > 
-> 🏆 450 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 580 Public Repositories 
@@ -64,15 +62,15 @@ Sunday                   4738 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   2 hrs 37 mins       ██████████████████████░░░   89.04 % 
-Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Python                   2 hrs 35 mins       ██████████████████████░░░   88.90 % 
+Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,6 +90,6 @@ AutoHotkey               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2024 15:16:18 UTC
+ Last Updated on 10/09/2024 15:45:14 UTC
 <!--END_SECTION:waka-->
 </details>
