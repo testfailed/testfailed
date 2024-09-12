@@ -64,15 +64,13 @@ Sunday                   4738 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   2 hrs 20 mins       ██████████████████████░░░   87.92 % 
-Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,6 +90,6 @@ AutoHotkey               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2024 15:16:17 UTC
+ Last Updated on 12/09/2024 15:47:52 UTC
 <!--END_SECTION:waka-->
 </details>
