@@ -37,6 +37,42 @@ I'm a Software Developer.
  > 
 > 🔑 155 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                3514 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+🌆 Daytime                16944 commits       █████████░░░░░░░░░░░░░░░░   35.64 % 
+🌃 Evening                17644 commits       █████████░░░░░░░░░░░░░░░░   37.11 % 
+🌙 Night                  9440 commits        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   8664 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Tuesday                  8124 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Wednesday                7348 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Thursday                 7192 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Friday                   7196 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Saturday                 4168 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Sunday                   4850 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -54,6 +90,6 @@ AutoHotkey               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2024 15:47:41 UTC
+ Last Updated on 27/09/2024 16:16:52 UTC
 <!--END_SECTION:waka-->
 </details>
