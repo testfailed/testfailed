@@ -21,13 +21,15 @@ I'm a Software Developer.
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C897%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C898%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 12.9 MB Used in GitHub's Storage 
+ > 
+> 🏆 451 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -62,17 +64,17 @@ Sunday                   4905 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JSON                     6 mins              ████████████████░░░░░░░░░   64.37 % 
-TOML                     3 mins              ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-Prisma                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+JSON                     40 mins             ███████████████████████░░   91.22 % 
+TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  7 mins              ██████████████████░░░░░░░   70.14 % 
-Neovim                   3 mins              ███████░░░░░░░░░░░░░░░░░░   29.86 % 
+VS Code                  40 mins             ███████████████████████░░   92.64 % 
+Neovim                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,6 +94,6 @@ AutoHotkey               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2024 15:18:27 UTC
+ Last Updated on 30/10/2024 15:48:03 UTC
 <!--END_SECTION:waka-->
 </details>
