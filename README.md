@@ -21,7 +21,7 @@ I'm a Software Developer.
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C898%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C902%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -64,13 +64,18 @@ Sunday                   4905 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JSON                     33 mins             █████████████████████████   100.00 % 
+TypeScript               2 hrs 16 mins       ████████████░░░░░░░░░░░░░   47.95 % 
+Prisma                   1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+JSON                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+VS Code                  4 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+Windows                  4 hrs 2 mins        █████████████████████░░░░   85.09 % 
+Mac                      42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,6 +95,6 @@ AutoHotkey               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2024 15:17:34 UTC
+ Last Updated on 05/11/2024 15:46:51 UTC
 <!--END_SECTION:waka-->
 </details>
