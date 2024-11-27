@@ -21,7 +21,7 @@ I'm a Software Developer.
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C013%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C007%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -94,6 +94,6 @@ AutoHotkey               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2024 14:53:03 UTC
+ Last Updated on 27/11/2024 15:19:04 UTC
 <!--END_SECTION:waka-->
 </details>
