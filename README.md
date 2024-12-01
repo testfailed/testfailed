@@ -21,15 +21,13 @@ I'm a Software Developer.
  <summary>My Statistics ↕️</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C024%20hrs%2054%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 12.9 MB Used in GitHub's Storage 
  > 
-> 🏆 590 Contributions in the Year 2024
+> 🏆 593 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -94,6 +92,6 @@ AutoHotkey               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2024 14:47:05 UTC
+ Last Updated on 01/12/2024 15:18:50 UTC
 <!--END_SECTION:waka-->
 </details>
