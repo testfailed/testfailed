@@ -64,14 +64,13 @@ Sunday                   4926 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               3 hrs 54 mins       █████████████████████████   99.10 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 56 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -91,6 +90,6 @@ AutoHotkey               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2024 15:18:24 UTC
+ Last Updated on 06/12/2024 15:48:43 UTC
 <!--END_SECTION:waka-->
 </details>
