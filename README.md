@@ -29,6 +29,8 @@ I'm a Software Developer.
 
 > 📦 12.9 MB Used in GitHub's Storage 
  > 
+> 🏆 823 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 586 Public Repositories 
@@ -88,6 +90,6 @@ Lua                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/testfailed/testfailed/main/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2024 16:17:30 UTC
+ Last Updated on 22/12/2024 16:47:35 UTC
 <!--END_SECTION:waka-->
 </details>
